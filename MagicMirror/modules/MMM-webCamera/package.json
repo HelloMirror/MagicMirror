@@ -1,0 +1,26 @@
+{
+  "name": "web-camera",
+  "version": "1.0.0",
+  "description": "MagicMirror's module",
+  "main": "MMM-webCamera.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BinSin/MMM-webCamera.git"
+  },
+  "keywords": [
+    "webCamera"
+  ],
+  "author": "BinSin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BinSin/MMM-webCamera/issues"
+  },
+  "homepage": "https://github.com/BinSin/MMM-webCamera#readme",
+  "dependencies": {
+    "child-process-promise": "^2.2.1",
+    "node-webcam": "^0.4.3"
+  }
+}

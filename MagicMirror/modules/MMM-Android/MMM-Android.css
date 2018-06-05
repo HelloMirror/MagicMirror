@@ -1,0 +1,10 @@
+.MMM-Android .table {
+  border-spacing: 5px;
+  border-collapse: separate;
+  font-size: 75%;
+  line-height: 30px;
+  display: inline-block;
+  -ms-transform: translate(0, -3px);
+  -webkit-transform: translate(0, -3px);
+  transform: translate(0, -3px);
+}

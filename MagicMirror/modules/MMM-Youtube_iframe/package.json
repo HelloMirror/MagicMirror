@@ -1,0 +1,11 @@
+{
+  "name": "mmm-youtube_iframe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MMM-Youtube_iframe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

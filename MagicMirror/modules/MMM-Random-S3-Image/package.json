@@ -1,0 +1,22 @@
+{
+  "name": "mmm-random-s3-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MMM-Random-S3-Image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BinSin/MMM-Random-S3-Image.git"
+  },
+  "author": "BinSin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BinSin/MMM-Random-S3-Image/issues"
+  },
+  "homepage": "https://github.com/BinSin/MMM-Random-S3-Image#readme",
+  "dependencies": {
+    "aws-sdk": "^2.247.1"
+  }
+}

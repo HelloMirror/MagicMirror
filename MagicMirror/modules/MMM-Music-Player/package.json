@@ -1,0 +1,22 @@
+{
+  "name": "mmm-music-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MMM-Music-Player.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BinSin/MMM-Music-Player.git"
+  },
+  "author": "BinSin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BinSin/MMM-Music-Player/issues"
+  },
+  "homepage": "https://github.com/BinSin/MMM-Music-Player#readme",
+  "dependencies": {
+    "child-process-promise": "^2.2.1"
+  }
+}

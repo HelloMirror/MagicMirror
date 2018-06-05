@@ -1,0 +1,14 @@
+.youtubeTABLE{
+    border-spacing: 5px;
+     border-collapse: separate;
+    font-size: 60%;
+    line-height: 30px;
+
+ }
+.youtubeTD{
+    max-width: 160px;
+}
+#youtubediv{
+    display: none;
+}
+

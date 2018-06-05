@@ -1,0 +1,22 @@
+{
+  "name": "mmm-android",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MMM-Android.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BinSin/MMM-Android.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BinSin/MMM-Android/issues"
+  },
+  "homepage": "https://github.com/BinSin/MMM-Android#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
