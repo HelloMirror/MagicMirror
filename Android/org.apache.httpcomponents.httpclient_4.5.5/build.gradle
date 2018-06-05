@@ -1,2 +1,0 @@
-configurations.maybeCreate("default")
-artifacts.add("default", file('org.apache.httpcomponents.httpclient_4.5.5.jar'))
