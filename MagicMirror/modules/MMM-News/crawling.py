@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from io import open
 
 req = requests.get("https://www.naver.com/") # connection
 html = req.text 
@@ -14,7 +15,7 @@ for sill in sillsigan:
 k = 1;
 list_sillsigan=[]
 
-f1 = open("news/news.js", 'w', encoding='utf8')
+f1 = open("../../news/news.js", 'w', encoding='utf8')
 for i in b: 
 
     if k>9 :
