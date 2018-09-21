@@ -17,7 +17,7 @@ module.exports = NodeHelper.create({
             exec("pm2 start ~/MagicMirror/installers/news.sh");
        });
 
-       // exec("python3 ~/MagicMirror/modules/MMM-News/crawling.py");
+       // exec("python ~/MagicMirror/modules/MMM-News/crawling.py");
       /*  setTimeout(function() {
 
         }, 2000);
