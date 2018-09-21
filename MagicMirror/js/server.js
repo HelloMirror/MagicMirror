@@ -69,7 +69,7 @@ var Server = function(config, callback) {
 		if(package == "mms")
 			fs.writeFile("android/mmsQuery.js", notiQuery, "utf-8");
 		else if(package == "kakao") {
-			if(notiQuery != "kakao&&) 
+			if(notiQuery != "kakao&&") 
 				fs.writeFile("android/kakaoQuery.js", notiQuery, "utf-8");
 		}
 		else if(package == "gmail")
