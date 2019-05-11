@@ -4,4 +4,4 @@
 ## Use open source
 [Magic Mirror2](https://github.com/MichMich/MagicMirror) 라는 오픈 소스를 사용하여 개발하였습니다.
 
-![SmartMirror](img/smartmirror)
+![SmartMirror](/img/smartmirror.jpg)
