@@ -45,7 +45,7 @@ Module.register("MMM-Music-Player", {
 		console.log("happy music start : " + payload);
 	}
 	else if(notification == "SUCCESS_SAD_MUSIC") {
-		console.log("happy music start : " + payload);
+		console.log("sad music start : " + payload);
 	}
   },
 
